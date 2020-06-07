@@ -18,7 +18,8 @@ public class User {
     public int userId;
 
     /**
-     * 英雄形象,再来一个demo
+     * 英雄形象,再来一个demo,测试合并分支
+     *
      */
     public String heroAvatar;
 
