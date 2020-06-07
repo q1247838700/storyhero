@@ -18,7 +18,7 @@ public class User {
     public int userId;
 
     /**
-     * 英雄形象，第4波合并
+     * 英雄形象，第4波合并这时候就可以提交到主分支了
      *
      */
     public String heroAvatar;
