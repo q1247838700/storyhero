@@ -18,7 +18,7 @@ public class User {
     public int userId;
 
     /**
-     * 英雄形象,再来一个demo,现在我
+     * 英雄形象，forklyg
      *
      */
     public String heroAvatar;
