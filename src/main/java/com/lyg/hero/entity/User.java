@@ -18,7 +18,7 @@ public class User {
     public int userId;
 
     /**
-     * 英雄形象,再来一个demo,测试合并分支
+     * 英雄形象,再来一个demo,现在我要删除分支了
      *
      */
     public String heroAvatar;
