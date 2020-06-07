@@ -18,7 +18,7 @@ public class User {
     public int userId;
 
     /**
-     * 英雄形象，第三波合并
+     * 英雄形象，第4波合并
      *
      */
     public String heroAvatar;
